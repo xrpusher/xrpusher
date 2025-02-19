@@ -26,5 +26,5 @@ I'm an engineer and developer, passionate about **VR, AI, embedded systems, and 
 ---
 
 ### **📬 Contact & Connect** 
-[![Email](https://img.shields.io/badge/Email-asyuldashov.dev%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asyuldashov.dev@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-asyuldashov.dev%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)]()  
 ---

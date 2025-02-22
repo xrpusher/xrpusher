@@ -4,7 +4,7 @@ I'm an engineer and developer, passionate about **VR, AI, embedded systems, and 
 🔬 Mostly working with embedded systems (**STM32, ESP32, HID USB**)  
 🤖 Exploring **deep reinforcement learning & AI-driven physics**  
 🚀 Developing **realistic movement models for virtual environments**  
-🎮 Currently working on a **VR project** focused on immersive simulations  
+🎮 Currently working on a **VR startup** focused on immersive simulations  
 🔌 Sometimes designing PCBs and working with electronics  
 💻 Occasionally writing software for different platforms  
 🎓 Graduated from HSE | Currently studying at RAU & HSE (IoT, AI, and Cyber-Physical Systems)  
